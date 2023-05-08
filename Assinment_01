@@ -1,0 +1,43 @@
+Q1 what is is emmet?
+
+-- Emmet is a tool that lets web developers write HTML and CSS code faster and more efficiently using shorthand syntax and shortcuts.
+
+Q2 what is the difference between library and framework?
+
+-- A library is a collection of pre-written code that provides a set of functions or methods that developers can use to perform specific tasks or 
+solve specific problems. Developers can choose which specific parts of the library they want to use in their own code and integrate them accordingly.
+
+In contrast, a framework is a more comprehensive set of pre-written code that provides a structure or architecture for developing an entire software application.
+Developers must build their application on top of the framework and follow its rules and conventions, which can make it more prescriptive but also potentially more
+powerful and efficient.
+
+Q3 What is CDN? Why do we use it?
+-- CDN stands for Content Delivery Network, which is a distributed network of servers located around the world that work together to deliver content to end-users. 
+When a user requests content, such as a webpage or media file, the CDN serves it from the server that is closest to the user, reducing the distance that the data 
+needs to travel and improving the speed and reliability of content delivery.
+
+Q4 Why is React known as React?
+
+React is named so because it reacts to changes in a web page, making it more dynamic and interactive. 
+It also uses a declarative programming model to build user interfaces, making development easier and more reliable.
+
+Q5 What is crossorigin in script tag?
+--The crossorigin attribute in a <script> tag is used to control how the browser handles requests for resources, such as scripts, stylesheets, 
+and images, that come from a different domain than the current web page. It can be set to "anonymous" or "use-credentials" to allow or restrict cross-origin requests.
+It's often used when loading resources from a third-party server, like a CDN, to maintain security.
+
+Q6 What is diference between React and ReactDOM?
+-- React is responsible for the component's logic, while ReactDOM is responsible for rendering that component to the browser. 
+Both packages are essential for building React applications, but they serve different purposes.
+
+Q7 What is difference between react.development.js and react.production.js files via CDN?
+-- react.development.js file is meant for development purposes, while the react.production.js file is optimized 
+for production environments and should be used in those cases.
+
+
+
+
+
+
+
+
