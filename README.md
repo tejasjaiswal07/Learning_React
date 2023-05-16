@@ -1,6 +1,5 @@
 # Learning_React
 
 
-learning react with Akshay Saini
-
+learning react
 Doing all the assignments here 
